@@ -56,8 +56,8 @@
 Thanks For Using My Script
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhanjan38&show_icons=true&locale=en&layout=compact" alt="alikhanjan38" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhanjan99&show_icons=true&locale=en&layout=compact" alt="alikhanjan99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhanjan38&show_icons=true&locale=en" alt="alikhanjan38" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&locale=en" alt="alikhanjan99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan38&" alt="alikhanjan38" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99" /></p>
