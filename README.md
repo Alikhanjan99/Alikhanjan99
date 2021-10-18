@@ -46,7 +46,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 #### Profile Visits:👇
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=azim-vau)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhanjan99&label=Profile%20views&color=0e75b6&style=flat" alt="alikhanjan99" /> </p>
 
 <div align="center">
 
