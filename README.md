@@ -1,4 +1,4 @@
-<img src="https://github.com/alikhanjan99/blob/main/IMAGE/62735854.jpeg" width="120" height="120" align="left">
+<img src="https://github.com/alikhanjan99" width="120" height="120" align="left">
 <center>
   
   
