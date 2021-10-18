@@ -84,11 +84,14 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alikhanjan99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alikhanjan99" /></a></p><br><br>
 
+Thanks For Using My Script
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Azim-vau&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Azim-vau&layout=compact&theme=chartreuse-dark" /> <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Azim-Vau&repo=Crack-Pro&theme=chartreuse-dark" /> <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhanjan99&show_icons=true&locale=en&layout=compact" alt="alikhanjan99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&locale=en" alt="alikhanjan99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99" /></p>
 <br><br>
 
 <div align="center">
