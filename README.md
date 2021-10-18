@@ -50,7 +50,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 <div align="center">
 
-[![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau) [![Facebook](https://img.shields.io/badge/Facebook-MAHMUD--AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/azimmahmudofficial) [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)
+[![Github](https://img.shields.io/badge/ALI KH An jan-dimgray?style=flat-square&logo=github)](https://github.com/alikhanjan99) [![Facebook](https://img.shields.io/badge/Facebook-Ali-KH An-jan-blue?style=flat-square&logo=facebook)](https://www.facebook.com/alikhan.jan.38) [![Instagram](https://img.shields.io/badge/Instagram-ALI--KHAN-JAN-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/alikhanjan38)
 
 </div>
 
