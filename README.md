@@ -68,7 +68,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <a href="https://codesandbox.com/alikhanjan38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="alikhanjan38" height="30" width="40" /></a>
 <a href="https://fb.com/alikhan.jan.38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali kh an jan" height="30" width="40" /></a>
 <a href="https://instagram.com/alikhanjan38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alikhanjan38" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCAxDeai7jwgh7CbuLPlAZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech by ali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaHT2lcr6wpGfPMPW0wuh-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech by ali" height="30" width="40" /></a>
 <a href="/decode_python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="decode_python" height="30" width="40" /></a>
 </p>
 
