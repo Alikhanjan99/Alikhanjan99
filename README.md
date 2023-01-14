@@ -88,7 +88,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
   <h1> Thanks For Using My Scripts </h1>
 </div>
 
-
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"/>
 <p><img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="Alikhanjan99"/></p>
 
 <p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&locale=en)" alt="alikhanjan99" /></p>
