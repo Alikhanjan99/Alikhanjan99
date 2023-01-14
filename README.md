@@ -89,11 +89,11 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 </div>
 
 <img src="https://camo.githubusercontent.com/1980c651d50141f9612eba2fe8e920d219e28b7c6f7fad928a60bcddfb86ee64/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6461726b">
-<p><img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="Alikhanjan99"></p>
+<p><img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" alt="Alikhanjan99"></p>
 
-<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&locale=en)" alt="alikhanjan99"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&locale=en" alt="alikhanjan99"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99"/></p>
 <br><br>
 
 <div align="center">
