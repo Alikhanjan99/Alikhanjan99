@@ -87,7 +87,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <div align="center">
   <h1> Thanks For Using My Scripts </h1>
 </div>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<img src="[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99"/></p>
 <br><br>
 
