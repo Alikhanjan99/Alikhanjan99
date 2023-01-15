@@ -85,7 +85,8 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <p><a href="https://www.buymeacoffee.com/alikhanjan99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alikhanjan99" /></a></p><br><br>
 
 
- - [x]  ```Thanks For Using My Scripts``` 
+ - [x]  For You !!
+  ```Thanks For Using My Scripts``` 
 
 
 
