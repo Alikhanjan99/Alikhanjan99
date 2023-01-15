@@ -87,7 +87,6 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <div align="center">
   <h1> Thanks For Using My Scripts </h1>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&locale=en" alt="alikhanjan99"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99"/></p>
 <br><br>
