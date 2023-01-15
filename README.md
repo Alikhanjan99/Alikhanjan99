@@ -99,9 +99,9 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99"/></p>
 
+<br><br>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Alikhanjan99/Decode_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alikhanjan99&repo=github-readme-stats)](https://github.com/Alikhanjan99/Decode_Python)
 
 <div align="center">
   <h1> Thanks For Visiting My Profile 🤞</h1>
