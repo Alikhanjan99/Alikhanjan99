@@ -85,9 +85,10 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <p><a href="https://www.buymeacoffee.com/alikhanjan99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alikhanjan99" /></a></p><br><br>
 
 <br><br>
+<div align="center">
  - [x]  For You !!
   ```Thanks For Using My Scripts``` 
-
+  </div>
 
 
 <br><br>
@@ -100,7 +101,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <h1> Thanks For Visiting My Profile 🤞</h1>
