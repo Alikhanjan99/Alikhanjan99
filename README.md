@@ -101,7 +101,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Alikhanjan99/Decode_Python)
 
 <div align="center">
   <h1> Thanks For Visiting My Profile 🤞</h1>
