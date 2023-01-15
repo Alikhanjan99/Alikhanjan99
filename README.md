@@ -85,10 +85,10 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 <p><a href="https://www.buymeacoffee.com/alikhanjan99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alikhanjan99" /></a></p><br><br>
 
 <br><br>
-<div align="center">
+
  - [x]  For You !!
   ```Thanks For Using My Scripts``` 
-  </div>
+
 
 
 <br><br>
@@ -101,7 +101,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 <br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alikhanjan99&repo=github-readme-stats)](https://github.com/Alikhanjan99/Decode_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alikhanjan99&repo=Decode_Python)](https://github.com/Alikhanjan99/Decode_Python)
 
 <div align="center">
   <h1> Thanks For Visiting My Profile 🤞</h1>
