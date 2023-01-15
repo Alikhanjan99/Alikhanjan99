@@ -91,12 +91,13 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 <br><br>
 
-  <p><img src="https://github-profile-trophy.vercel.app/?username=alikhanjan99"></p><br>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=alikhanjan99"></p>
+
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhanjan99&" alt="alikhanjan99"/></p>
 
-  <p><img src="https://github-profile-trophy.vercel.app/?username=alikhanjan99"></p>
+
 
 
 
