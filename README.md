@@ -102,5 +102,5 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 
 <div align="center">
-  <h1> THANKS FOR VISITING MY PROFILE </h1>
+  <h1> Thanks For Visiting My Profile </h1>
 </div>
