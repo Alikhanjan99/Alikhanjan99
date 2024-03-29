@@ -52,7 +52,7 @@ CONTACT : <i>alikhan5644615@gmail.com</i>  <br> <br>
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 🤝 I’m looking for help with [PAKISTAN ISI](https://en.wikipedia.org/wiki/Inter-Services_Intelligence)
+- 🤝 I’m looking for help with [Cyber Security]()
 
 - 👨‍💻 All of my projects are available at [My Facebook Group](https://facebook.com/groups/2082595868581044)
 
